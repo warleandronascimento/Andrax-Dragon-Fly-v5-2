@@ -1,0 +1,125 @@
+ANDRAX v5R BUILD 5 (09/09/2020 DD/MM/YYYY)
+
+Fixed problem in Xauthority for X11 and VNC parse permissions
+Fixed wireshark-gtk loader (to start as wireshark)
+Fixed "CORE NOT INSTALLED" problem in some devices
+Fixed CODEHACK IDE Parser error
+Fixed "INSTALL ANDRAX CORE!!!" message for already installed core
+Fixed crashs when no root is provided
+Fixed a problem in loader of color pallet 
+Fixed apache2 loader warning
+Fixed "dim black" color
+Fixed QRLJacker sessions loader
+Fixed Metasploit Framework loader permissions
+Fixed adminpagefinder shebang
+Fixed ninjac2 problem
+Fixed Depraction Warning in KATANA-DS from "Collections's ABC"
+Fixed PostgreSQL SHMEM problem
+
+New DCO category "Mainframes"
+New MENU of tools in FluxBox
+
+Responder improved to ANDRAX Edition
+
+Added sgn
+Added keystone engine
+Added FTP client
+Added smod
+Added TPX_Brute
+Added cicspwn
+Added cicsshot
+Added fingerprinter 
+Added dnstwist
+Added zOS-ENUM
+Added netEBCDICat
+Added TShOcker
+Added Mainframe-Shells
+Added Mainframe-PrivilegeEscalation
+Added phatso
+Added psikotik
+Added birp
+Added mainframe_bruter
+Added MFDoS
+Added ipcalc
+Added httpx
+Added nuclei
+Added shuffledns
+Added massdns
+Added javascript-obfuscator
+Added evil_ssdp
+Added atscan
+Added MainTP
+Added MFSniffer
+Added maskprocessor
+Added cisco_pwdecrypt
+Added UPNP-Scan
+Added UPNP-Exploiter
+Added MIRANDA
+Added UPNP_Tools
+Added Call-Stranger
+Added bing-ip2hosts
+Added empire
+
+Added GoDOH binaries for others platforms
+Added Chisel binaries for others platforms
+Added udp2raw binaries for others platforms
+
+Added new font options for Dragon Terminal
+Added new root checker
+Added new option to replace the login user
+Added new CORE version checker
+
+New AUTO HIDE to EXTRA-KEYS when in LANDSCAPE mode
+
+
+
+******************************************
+==========================================
+******************************************
+
+
+
+ANDRAX v5R BUILD 4 (14/06/2020 DD/MM/YYYY)
+
+Fixed LOCALE bug that turn shell crazy and flickering
+
+Fixed MARINA sudo call
+
+
+
+******************************************
+==========================================
+******************************************
+
+
+
+ANDRAX v5R BUILD 3 (13/06/2020 DD/MM/YYYY)
+
+Fixed [ Error in service module ] A Magisk problem in PAM auth (Not my problem but i fixed it anyway)
+
+Fixed problem on snmpcheck with wrong snmpwalk call
+
+Fixed a problem in bootstrap from core installation
+
+
+
+******************************************
+==========================================
+******************************************
+
+
+
+ANDRAX v5R BUILD 2 (11/06/2020 DD/MM/YYYY)
+
+Fixed Android 9 and 10 Magisk Problem (Not ANDRAX problem but i fixed it anyway)
+
+Graphical tools now only start in VNC or X11 Session
+Added menu to mount device storage inside ANDRAX container
+
+Added Maltego
+
+Added OWASP ZAP
+
+Added micro editor
+
+Updated Tools
